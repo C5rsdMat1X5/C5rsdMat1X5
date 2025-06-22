@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm C5rsdMat1X5 👋
 
-<!--
-**C5rsdMat1X5/C5rsdMat1X5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I'm passionate about backend development with Python and enjoy experimenting with a bit of JavaScript.
 
-Here are some ideas to get you started:
+## 🐍 Top Skill
+**Python** is my main language — I love building backend logic, scripts, and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Public Projects
+
+- [instagram-unfollower](https://github.com/C5rsdMat1X5/instagram-unfollower)  
+  Python project for managing Instagram unfollows.
+
+- [bot](https://github.com/C5rsdMat1X5/bot)  
+  Python bot project exploring automation.
+
+- [calculator-web](https://github.com/C5rsdMat1X5/calculator-web)  
+  A simple web calculator interface.
+
+- [to-do-list-app](https://github.com/C5rsdMat1X5/to-do-list-app)  
+  A classic to-do list app using JavaScript.
+
+- [web](https://github.com/C5rsdMat1X5/web)  
+  Experiments in HTML and web basics.
+
+---
+
+Thanks for checking out my profile!  
+Feel free to explore my repos or drop a star ⭐️ if you find something useful or fun 🤷‍♂️.
