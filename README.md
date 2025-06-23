@@ -11,8 +11,8 @@ I'm passionate about backend development with Python and enjoy experimenting wit
 - [instagram-unfollower](https://github.com/C5rsdMat1X5/instagram-unfollower)  
   Python project for managing Instagram unfollows.
 
-- [bot](https://github.com/C5rsdMat1X5/bot)  
-  Python bot project exploring automation.
+- [password-manager](https://github.com/C5rsdMat1X5/password-manager-app)  
+  Python password manager to automation (not real use btw).
 
 - [calculator-web](https://github.com/C5rsdMat1X5/calculator-web)  
   A simple web calculator interface.
@@ -20,8 +20,8 @@ I'm passionate about backend development with Python and enjoy experimenting wit
 - [to-do-list-app](https://github.com/C5rsdMat1X5/to-do-list-app)  
   A classic to-do list app using JavaScript.
 
-- [web](https://github.com/C5rsdMat1X5/web)  
-  Experiments in HTML and web basics.
+- [my-web-page](https://matias-web-page.onrender.com)  
+  My own web blog !!!!.
 
 ---
 
