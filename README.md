@@ -17,7 +17,7 @@ I'm passionate about backend development with Python and enjoy experimenting wit
 - [calculator-web](https://matias-calculator-web.onrender.com)  
   A simple web calculator interface.
 
-- [to-do-list-app](https://matias-todo-list-web)  
+- [to-do-list-app](https://matias-todo-list-web.onrender.com)  
   A classic to-do list app using JavaScript.
 
 - [my-web-page](https://matias-web-page.onrender.com)  
