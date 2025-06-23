@@ -14,10 +14,10 @@ I'm passionate about backend development with Python and enjoy experimenting wit
 - [password-manager](https://github.com/C5rsdMat1X5/password-manager-app)  
   Python password manager to automation (not real use btw).
 
-- [calculator-web](https://github.com/C5rsdMat1X5/calculator-web)  
+- [calculator-web](https://matias-calculator-web.onrender.com)  
   A simple web calculator interface.
 
-- [to-do-list-app](https://github.com/C5rsdMat1X5/to-do-list-app)  
+- [to-do-list-app](https://matias-todo-list-web)  
   A classic to-do list app using JavaScript.
 
 - [my-web-page](https://matias-web-page.onrender.com)  
