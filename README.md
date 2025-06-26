@@ -7,21 +7,22 @@
 ---
 
 Welcome to my little corner of GitHub 👨‍💻  
-I'm mostly into backend stuff with **Python**, but I also like to mess around with a bit of JS and automation tools just for fun (or chaos — who knows).
+I mostly do backend wizardry with **Python**, but sometimes I open JS files just to feel alive.  
+Also dangerously into automation — because if something can be done in 10 hours of scripting instead of 2 minutes manually, I'll do it.
 
 ---
 
 ## 🐍 Main Skill
 
-**Python** is my language of choice.  
-From building backend logic and tools to writing weird scripts that save me from doing boring stuff manually — if I can automate it, I probably will.
+**Python** is my go-to tool for making machines do my bidding.  
+From backend APIs to random scripts that make my life 3% easier, if it saves me a click, it's a win.
 
 ---
 
 ## 📂 Some of My Projects (a.k.a. stuff I built instead of sleeping)
 
-- [**instagram-unfollower**](https://github.com/C5rsdMat1X5/instagram-unfollower)  
-  A Python script to unfollow people. Not creepy, just efficient. 😅
+- [**disaster-tracker**](https://github.com/C5rsdMat1X5/natural-disaster-tracker)  
+  Tracks natural disasters on a map. Fires, quakes, chaos — all in one app 🌍🔥
 
 - [**password-manager**](https://github.com/C5rsdMat1X5/password-manager-app)  
   A mini password manager made for fun (definitely not for real-life use... pls don't).
@@ -50,8 +51,9 @@ From building backend logic and tools to writing weird scripts that save me from
 
 Feel free to check out my repos, drop a ⭐ if something helped you or made you laugh 🤷‍♂️, or open an issue if it broke your computer (oops).
 
-> btw, I'm always down to collab on cool Python stuff. Hit me up if you’ve got ideas!
+> btw, I'm always open to collab on cool Python projects.
 
 ---
 
-Thanks for stopping by 🙌
+Thanks for stopping by 🙌  
+(Go touch some grass now 🌱)
